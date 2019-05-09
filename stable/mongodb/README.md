@@ -33,6 +33,8 @@ The command deploys MongoDB on the Kubernetes cluster in the default configurati
 
 ## Uninstalling the Chart
 
+
+
 To uninstall/delete the `my-release` deployment:
 
 ```bash
